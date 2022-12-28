@@ -1,4 +1,4 @@
-# configure-ad
+# Active Directory in Windows 10 OS via Azure Cloud VM
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
